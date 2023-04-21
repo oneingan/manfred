@@ -1,0 +1,644 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan José",
+      "surnames": "Presa Rodal",
+      "title": "Automatizador",
+      "description": "¡Hola! me describiría como un apasionado del Software Libre y un autodidacta de Linux, redes y sistemas en general desde edad bien temprana.\n\nComencé mi carrera profesional hace aproximadamente 20 años (tengo 41) en el mundo de la Administración Linux _ad-hoc_ propia de esa época, desde entonces, no he dejado de interesarme por las nuevas tendencias tecnológicas, tanto en el mundo del Desarrollo como en el de las  Operaciones. Me gusta mantener mi propio _Technology Radar_ actualizado, aunque a veces reconozco que me paso de frenada.\n\nAhora busco nuevos proyectos, donde, por ejemplo, la reproducibilidad de entornos o la verificación criptográfica de la cadena de suministros de software sean conceptos que resuenen.",
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/uningan"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "¡Hala Celta!",
+        "fact": "Aunque no soy futbolero de ver todos los partidos si que me gusta seguir al equipo de mi ciudad y a sus filiales."
+      },
+      {
+        "topic": "Mis 3 hijos",
+        "fact": "Los que me hacen perder toda la capacidad cognitiva desarrollada antes."
+      },
+      {
+        "topic": "Christopher Alexander",
+        "fact": "Me gusta el trabajo en arquitectura de Christopher Alexander y su conexión con el mundo de la informática de su \"Lenguaje de Patrones\"."
+      },
+      {
+        "topic": "Budismo",
+        "fact": "Recientemente he encontrado en la práctica de la meditación budista un lugar donde estar presente y desarrollar toda mi capacidad cognitiva."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": " Why Order Matters: Turing Equivalence in Automated Systems Administration",
+        "type": "reading",
+        "URL": "http://www.infrastructures.org/papers/turing/turing.html",
+        "authors": [
+          {
+            "name": "Steve",
+            "surnames": "Traugott",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      },
+      {
+        "title": "The Purely Functional Software Deployment Model",
+        "type": "reading",
+        "URL": "https://edolstra.github.io/pubs/phd-thesis.pdf",
+        "authors": [
+          {
+            "name": "Eelco",
+            "surnames": "Dolstra",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Civir España",
+          "image": {
+            "alt": "logo-civir-2022_dark.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/8fe2b5b0-aacf-47ff-952e-59328f24c74c_logo-civir-2022_dark.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de sistemas",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo y diseño DSLs a medida para generar código Terraform y charts de Helm.\n- Mejoro la experiencia de los desarrolladores con procesos reproducibles y unificando herramientas de construcción o de despliegue.\n- Realizo formaciones y soporte Terraform, AWS y otras herramientas DevOps a nuevos empleados.\n- Desarrollo una plataforma para gestión y despliegue de soluciones Elastic en Kubernetes y AWS."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SaludMadrid",
+          "image": {
+            "alt": "Logotipo_del_SERMAS_(RPS_10-03-2012).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/2e8c20a0-c810-47ce-a4c6-e718786997be_logotipo_del_sermas_.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultoría de sistemas",
+            "startDate": "2021-02-01",
+            "finishDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "- Me incorporé en un proyecto de diseño de solución CI/CD ya empezado que se encontraba atascado en fases iniciales.\n- Fui la persona encargada de facilitar el diálogo entre el equipo técnico DevOps y los equipos de desarrollo.\n- Conseguí desbloquear el proyecto y documenté extensivamente las virtudes y carencias del mismo, siriviendo esto de base para la siguiente fase en la que ya no participé."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Nexus",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sustainable Fisheries Partnership",
+          "image": {
+            "alt": "logo-sfp.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/ec7a1273-8cd6-4666-a2db-17a2e0ebc335_logo-sfp.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Tech Lead / SRE",
+            "startDate": "2020-08-01",
+            "finishDate": "2021-02-01",
+            "challenges": [
+              {
+                "description": "- Participé en el diseño de una aplicación Android/iOS encargada por una ONG internacional siguiendo patrones _Domain Driven Design_\n- Diseñe y desarrollé los flujos de Integración Continua y las estrategias de Release.\n- Dialogué con los pescadores artesanos de Chile y Perú e hice de interlocutor entre ellos, desarrolladores y Product Managers."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Santander Global Tech",
+          "image": {
+            "alt": "mgogwdkxah2khqxnnm4k.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/c3f66870-c824-491c-a1e0-cfb9704185f8_mgogwdkxah2khqxnnm4k.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultoría de sistemas",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-05-01",
+            "challenges": [
+              {
+                "description": "- Documenté según modelo C4 la plataforma ALM basada en Cloudbees que se estaba desarrollando.\n- Reorganizé los workspaces de Terraform Enterprise existentes para conseguir romper el monolito que se había creado.\n- Propuse un nuevo diseño mas cercano al paradigma IaC, potenciando proyectos como JCaaC, jenkinsfile-runner o custom-war-packager.\n- Tuve que abandonar el proyecto por motivos personales."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Metro de Madrid",
+          "image": {
+            "alt": "MetroMadridLogo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/cdac20c6-51c4-4b0c-add8-c9fe4d194abc_metromadridlogo.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de sistemas",
+            "startDate": "2011-03-01",
+            "finishDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "- Diseñé, desarrollé y evolucioné una plataforma GitOps de recuperación de equipos remotos en estaciones.\n- La plataforma ayudó a recuperar el conocimiento de sus sistemas, reinternalizar muchos de los procedimientos, y abstraerse del hardware heredado del que dependían.\n- La última iteración se basaba en imágenes inmutables en NixOS distribuidas por red con iPXE y configuración basada en ficheros `yaml` almacenados en Hashicorp Consul."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Puppet",
+                "type": "technology"
+              },
+              {
+                "name": "Solaris",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IMSERSO",
+          "image": {
+            "alt": "275069309_154188563670848_2712749590732705442_n.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/4cef6a1f-1622-4b94-b1df-d019a8b279d9_275069309_1541885636.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas AIX/Linux",
+            "startDate": "2008-02-01",
+            "finishDate": "2011-02-01",
+            "challenges": [
+              {
+                "description": "- Realicé la administración de sistema operativo AIX en sus versiones 5.3 y 6.1. Utilizando VIOS 2.1 y particionamiento dinámico.\n\n- Diseñé el entorno en alta disponibilidad mediante HACMP y el de respaldo.\n\n- Implementé el monitorizado integral con Nagios."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AIX",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Nagios",
+                "type": "technology"
+              },
+              {
+                "name": "RedHat",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Dell España",
+          "image": {
+            "alt": "Dell_Logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/665dd14f-fecc-4d3f-9764-6e4ddc027cac_dell_logo.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Agente soporte servidores Linux",
+            "startDate": "2007-02-01",
+            "finishDate": "2008-02-01",
+            "challenges": [
+              {
+                "description": "Diagnóstico avanzado de problemas de software y hardware. Tratando tanto con empresas\ncomo con usuarios particulares. Desde noviembre de 2007 agente del soporte Servers. Línea\nespecializada en servidores, con amplios límites de soporte, en ayuda, configuración y resolución\nde problemas. Trabajando con plataformas RedHat, SuSE Linux y Windows Server."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "RedHat",
+                "type": "technology"
+              },
+              {
+                "name": "SUSE",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Nadanix - Proyecto personal",
+          "description": "- Ofrezco desarrollos, consultoría y soporte a equipos interesados en integrar el ecosistema Nix.\n- Trabajo en la plataforma Urbit.es, un servicio VPS programado en Haskell sobre red Ethereum.\n- Contribuyo en el proyecto NixOS como mantenedor de paquetes."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-06-01",
+            "competences": [
+              {
+                "name": "Elm",
+                "type": "technology"
+              },
+              {
+                "name": "Ethereum",
+                "type": "technology"
+              },
+              {
+                "name": "Haskell",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Administrador del primer Nix User Group de España",
+          "description": "",
+          "URL": "https://www.meetup.com/madrid-nix-nixos-user-group/",
+          "image": {
+            "alt": "Nix_snowflake.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/c110ed2b-6230-4f3f-a712-165d9a7d7006_nix_snowflake.svg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2022-12-01",
+        "relatedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Comunidad"
+        ]
+      },
+      {
+        "details": {
+          "name": "Organizador y profesor curso gratuito de introducción a Puppet",
+          "description": "",
+          "URL": "https://www.eventbrite.es/e/registro-curso-de-introduccion-a-puppet-5976346413",
+          "image": {
+            "alt": "PL_logo_vertical_RGB_0.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/ff6145fe-2a84-4d08-9bb9-6e87c021746e_pl_logo_vertical_rgb.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2013-04-01",
+        "relatedCompetences": [
+          {
+            "name": "Puppet",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Comunidad"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Portuguese",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Nomad",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Haskell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Helm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Puppet",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Emacs",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería técnica en Informática de Sistemas",
+        "startDate": "2003-09-01",
+        "finishDate": "2008-02-01",
+        "institution": {
+          "name": "Universidade da Coruña",
+          "description": "",
+          "image": {
+            "alt": "UDC-Logo-PNG.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/f5501cca-4232-434c-9f4e-3ec604ad3de8_udc-logo-png.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
+          "name": "Haskell",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Windows",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
+        "SysAdmin"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Github Actions",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
+      }
+    ]
+  }
+}
