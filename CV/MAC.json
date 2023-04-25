@@ -178,33 +178,25 @@
         },
         "roles": [
           {
-            "name": "Tech Lead / SRE",
+            "name": " Tech Lead / Site Reliability Engineer",
             "startDate": "2020-08-01",
             "finishDate": "2021-02-01",
             "challenges": [
               {
-                "description": "- Participé en el diseño de una aplicación Android/iOS encargada por una ONG internacional siguiendo patrones _Domain Driven Design_\n- Diseñe y desarrollé los flujos de Integración Continua y las estrategias de Release.\n- Dialogué con los pescadores artesanos de Chile y Perú e hice de interlocutor entre ellos, desarrolladores y Product Managers."
+                "description": "- Participé en el diseño de una aplicación Android/iOS encargada por una ONG internacional siguiendo patrones Domain Driven Design, así como los flujos de Integración Continua y las estrategias de Release.\n\n- El mayor reto para mi fue la gestión del equipo de desarrollo externo y la interlocución entre pescadores artesanos de Chile y Perú y los diferentes stakeholders.\n\n- Conseguí satisfactoriamente modelar un dominio y una problemática compleja, pero no conseguí gestionar como me hubiera gustado al equipo de desarrollo."
               }
             ],
             "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
               {
                 "name": "Cordova",
                 "type": "technology"
               },
               {
-                "name": "Jenkins",
+                "name": "Github",
                 "type": "technology"
               },
               {
-                "name": "Jira",
+                "name": "Jenkins",
                 "type": "technology"
               }
             ]
