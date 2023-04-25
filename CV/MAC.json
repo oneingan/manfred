@@ -240,6 +240,33 @@
       },
       {
         "organization": {
+          "name": "Aena",
+          "image": {
+            "alt": "Aena_Logo_New.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/40f188d6-8496-4cb3-8fb5-15b1bfb72e3d_aena_logo_new.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Consultant",
+            "startDate": "2017-12-01",
+            "finishDate": "2018-05-01",
+            "challenges": [
+              {
+                "description": "- Asesoré en el diseño de la infraestructura de despliegue distribuido por aeropuertos, usando SUSE Manager y arranque por PXE.\n\n- El principal reto era hacerlo funcionar dentro de redes perimetrales muy restringidas y considerando los altos estándares de seguridad en aeropuertos.\n\n- Se consiguió un entorno seguro de imágenes inmutables bastionadas usando SALT y seguridad física con LUKS y dm-boot (en equipos con TPM2.0)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SUSE",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Metro de Madrid"
         },
         "roles": [
