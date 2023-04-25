@@ -248,29 +248,21 @@
         },
         "roles": [
           {
-            "name": "Ingeniero de sistemas",
-            "startDate": "2011-03-01",
-            "finishDate": "2018-06-01",
+            "name": "DevOps Engineer",
+            "startDate": "2016-06-01",
+            "finishDate": "2018-05-01",
             "challenges": [
               {
-                "description": "- Diseñé, desarrollé y evolucioné una plataforma GitOps de recuperación de equipos remotos en estaciones.\n- La plataforma ayudó a recuperar el conocimiento de sus sistemas, reinternalizar muchos de los procedimientos, y abstraerse del hardware heredado del que dependían.\n- La última iteración se basaba en imágenes inmutables en NixOS distribuidas por red con iPXE y configuración basada en ficheros `yaml` almacenados en Hashicorp Consul."
+                "description": "- Evolucioné la plataforma de recuperación, eliminando Puppet y adoptando conceptos de infraestructura inmutable y contenedores.\n\n- Se desarrollaron pipelines de CI/CD para la creación de imágenes de sistema operativo (CentOS, NixOS, Illumos) o contenedores, los cuales se configuraban en tiempo de arranque según las configuraciones almacenadas de manera distribuida en Consul.\n\n- Se consiguió reducir todavía mas el MTTR o incluso poder arrancar los servidores sin disco o disco defectuoso."
               }
             ],
             "competences": [
               {
-                "name": "Linux",
+                "name": "Concourse",
                 "type": "technology"
               },
               {
-                "name": "Puppet",
-                "type": "technology"
-              },
-              {
-                "name": "Solaris",
-                "type": "technology"
-              },
-              {
-                "name": "VMWare",
+                "name": "Docker",
                 "type": "technology"
               }
             ]
