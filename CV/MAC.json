@@ -398,6 +398,41 @@
       },
       {
         "organization": {
+          "name": "Metro de Madrid",
+          "image": {
+            "alt": "MetroMadridLogo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/dc6fcfe0-e463-4766-8c21-888443d65033_metromadridlogo.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "System Consultant",
+            "startDate": "2011-03-01",
+            "finishDate": "2012-10-01",
+            "challenges": [
+              {
+                "description": "- Diseñé y desarrollé una solución para recuperación de equipos en estaciones. Basado en despliegue de sistema operativo por red y posterior configuración con la herramienta Puppet.\n\n- El principal reto fue realizar la ingeniería inversa de aplicaciones y sistemas heredados, de mucha antiguedad y poco documentados.\n\n- Se consiguió reducir el MTTR (Mean Time To Repair) de días a horas o minutos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Puppet",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "IMSERSO",
           "image": {
             "alt": "275069309_154188563670848_2712749590732705442_n.png",
