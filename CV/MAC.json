@@ -294,6 +294,41 @@
       },
       {
         "organization": {
+          "name": "Telefónica Tech",
+          "image": {
+            "alt": "channels4_profile.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7db4543c-6967-4ca9-bfc0-35721619172a_channels4_profile.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Consultant",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-10-01",
+            "challenges": [
+              {
+                "description": "    - Diseñé y desarrollé la solución para el provisionamiento del catálogo de software como autoservicio (VDC).\n\n    - Se pedía un diseño fácil y económico de mantener y que no atase a la empresa a ninguna solución de infraestructura ni a ningún producto Enterprise.\n\n- Lo conseguí con un diseño basado en agentes Puppet efímeros sin Master e intercambio de ficheros YAML con vCloud de VMWare. Se trataba de un diseño de gran escabilidad, tolerancia a errores y agnóstico a la infraestructura.- Diseñé y desarrollé la solución para el provisionamiento del catálogo de software como autoservicio (VDC)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Puppet",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              },
+              {
+                "name": "YAML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Metro de Madrid",
           "image": {
             "alt": "MetroMadridLogo.svg",
