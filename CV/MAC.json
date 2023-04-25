@@ -213,12 +213,12 @@
         },
         "roles": [
           {
-            "name": "Consultoría de sistemas",
-            "startDate": "2019-02-01",
-            "finishDate": "2019-05-01",
+            "name": " DevOps Consultant",
+            "startDate": "2019-04-01",
+            "finishDate": "2019-07-01",
             "challenges": [
               {
-                "description": "- Documenté según modelo C4 la plataforma ALM basada en Cloudbees que se estaba desarrollando.\n- Reorganizé los workspaces de Terraform Enterprise existentes para conseguir romper el monolito que se había creado.\n- Propuse un nuevo diseño mas cercano al paradigma IaC, potenciando proyectos como JCaaC, jenkinsfile-runner o custom-war-packager.\n- Tuve que abandonar el proyecto por motivos personales."
+                "description": "- Documenté, según modelo C4, la plataforma ALM basada en Cloudbees que se estaba desarrollando.\n\n- Propuse un diseño modular de los workspaces de Terraform Enterprise existentes para conseguir romper el monolito que se estaba creando.\n\n- Propuse un nuevo diseño para Jenkins mas cercano al paradigma IaC, potenciando proyectos como JCaaC, jenkinsfile-runner o custom-war-packager.\n\n- Abandoné el proyecto por motivos personales, por lo que desconozco el alcance que tuvieron mis diseños y propuestas."
               }
             ],
             "competences": [
