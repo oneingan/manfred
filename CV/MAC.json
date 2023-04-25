@@ -240,11 +240,7 @@
       },
       {
         "organization": {
-          "name": "Metro de Madrid",
-          "image": {
-            "alt": "MetroMadridLogo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/cdac20c6-51c4-4b0c-add8-c9fe4d194abc_metromadridlogo.svg"
-          }
+          "name": "Metro de Madrid"
         },
         "roles": [
           {
@@ -263,6 +259,37 @@
               },
               {
                 "name": "Docker",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Metro de Madrid"
+        },
+        "roles": [
+          {
+            "name": "System Engineer",
+            "startDate": "2013-04-01",
+            "finishDate": "2016-05-01",
+            "challenges": [
+              {
+                "description": "- Continué el trabajo de la consultoría previa, integrando otros sistemas en la plataforma de recuperación basada en Puppet. Incluyendo equipos Solaris y aplicaciones en entornos gráficos.\n\n- Diseñé junto a los responsables del servicio la plataforma de monitorización basada en Nagios pero configurada de forma dinámica usando Puppet.\n\n- El mayor reto fue adaptar Nagios a una infraestructura dinámica.\n\n- Conseguí, junto al servicio, en pocos meses, entregar la plataforma de monitorización que llevaba años en desarrollo por otra consultora."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Nagios",
+                "type": "technology"
+              },
+              {
+                "name": "Puppet",
+                "type": "technology"
+              },
+              {
+                "name": "Solaris",
                 "type": "technology"
               }
             ]
