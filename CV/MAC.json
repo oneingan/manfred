@@ -368,6 +368,36 @@
       },
       {
         "organization": {
+          "name": "Produban",
+          "image": {
+            "alt": "produban-squarelogo-1432107081926.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/a7d05889-f1a8-4b2e-9dca-16f2b6796e00_produban-squarelogo-.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "System Administrator",
+            "startDate": "2012-11-01",
+            "finishDate": "2013-01-01",
+            "competences": [
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "RedHat",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "IMSERSO",
           "image": {
             "alt": "275069309_154188563670848_2712749590732705442_n.png",
