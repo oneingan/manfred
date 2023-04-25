@@ -441,7 +441,7 @@
         },
         "roles": [
           {
-            "name": "Administrador de sistemas AIX/Linux",
+            "name": "System Administrator",
             "startDate": "2008-02-01",
             "finishDate": "2011-02-01",
             "challenges": [
