@@ -267,7 +267,11 @@
       },
       {
         "organization": {
-          "name": "Metro de Madrid"
+          "name": "Metro de Madrid",
+          "image": {
+            "alt": "MetroMadridLogo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/6083ec59-f877-4ae5-9a09-b56d66da28b6_metromadridlogo.svg"
+          }
         },
         "roles": [
           {
