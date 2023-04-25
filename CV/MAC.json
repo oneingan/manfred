@@ -585,6 +585,20 @@
         "tags": [
           "Comunidad"
         ]
+      },
+      {
+        "details": {
+          "name": "Mi primer Bitcoin",
+          "image": {
+            "alt": "Bitcoin.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/bb7227a0-de2e-4368-abd1-1e97b8759d49_bitcoin.svg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2012-08-01",
+        "tags": [
+          "Criptografía"
+        ]
       }
     ]
   },
