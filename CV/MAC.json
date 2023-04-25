@@ -518,7 +518,7 @@
       {
         "details": {
           "name": "Nadanix - Proyecto personal",
-          "description": "- Ofrezco desarrollos, consultoría y soporte a equipos interesados en integrar el ecosistema Nix.\n- Trabajo en la plataforma Urbit.es, un servicio VPS programado en Haskell sobre red Ethereum.\n- Contribuyo en el proyecto NixOS como mantenedor de paquetes."
+          "description": "- Ofrezco desarrollos, consultoría y soporte a equipos interesados en integrar el ecosistema Nix.\n- Trabajo en la plataforma Urbit.es, un servicio VPS programado en Nix sobre red Ethereum.\n- Contribuyo en el proyecto NixOS como mantenedor de paquetes."
         },
         "type": "sideProject",
         "roles": [
@@ -532,10 +532,6 @@
               },
               {
                 "name": "Ethereum",
-                "type": "technology"
-              },
-              {
-                "name": "Haskell",
                 "type": "technology"
               },
               {
