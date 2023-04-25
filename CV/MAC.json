@@ -127,7 +127,7 @@
       },
       {
         "organization": {
-          "name": "SaludMadrid",
+          "name": "Consejería de Sanidad",
           "image": {
             "alt": "Logotipo_del_SERMAS_(RPS_10-03-2012).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/2e8c20a0-c810-47ce-a4c6-e718786997be_logotipo_del_sermas_.png"
@@ -140,7 +140,7 @@
             "finishDate": "2021-10-01",
             "challenges": [
               {
-                "description": "- Me incorporé en un proyecto de diseño de solución CI/CD ya empezado que se encontraba atascado en fases iniciales.\n- Fui la persona encargada de facilitar el diálogo entre el equipo técnico DevOps y los equipos de desarrollo.\n- Conseguí desbloquear el proyecto y documenté extensivamente las virtudes y carencias del mismo, siriviendo esto de base para la siguiente fase en la que ya no participé."
+                "description": "- Me incorporé en un proyecto de diseño de solución CI/CD ya empezado que se encontraba atascado en fases iniciales.\n\n- El mayor reto era conseguir un diálogo productivo entre el equipo técnico DevOps y los equipos de desarrollo.\n\n- Conseguí desbloquear el proyecto y documenté extensivamente las virtudes y carencias del mismo, siriviendo esto de base para la siguiente fase en la que ya no participé."
               }
             ],
             "competences": [
@@ -157,11 +157,11 @@
                 "type": "technology"
               },
               {
-                "name": "Maven",
+                "name": "Kubernetes",
                 "type": "technology"
               },
               {
-                "name": "Nexus",
+                "name": "Maven",
                 "type": "technology"
               }
             ]
