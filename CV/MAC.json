@@ -726,6 +726,32 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Mastering Functional DevOps with Nix",
+        "startDate": "2022-11-01",
+        "finishDate": "2022-11-01",
+        "institution": {
+          "name": "Ziverge Inc.",
+          "description": "Over the course of this full-day workshop, attendees will learn how to provision and install Nix/NixOS, and deploy their own system and applications. We will cover the typical DevOps life cycle so that you can understand and master the meaning of reproducibility and the ways in which it can improve development, continuous integration, and deployment to production.",
+          "URL": "https://www.eventbrite.com/e/mastering-functional-devops-with-nix-tickets-445146373787",
+          "image": {
+            "alt": "Nix_snowflake.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/27/da43dc3a-3a9e-427c-be00-a33489f6a9b2_nix_snowflake.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería técnica en Informática de Sistemas",
