@@ -222,7 +222,7 @@
             "finishDate": "2019-07-01",
             "challenges": [
               {
-                "description": "- Documenté, según modelo C4, la plataforma ALM basada en Cloudbees que se estaba desarrollando.\n\n- Propuse un diseño modular de los workspaces de Terraform Enterprise existentes para conseguir romper el monolito que se estaba creando.\n\n- Propuse un nuevo diseño para Jenkins mas cercano al paradigma IaC, potenciando proyectos como JCaaC, jenkinsfile-runner o custom-war-packager.\n\n- Abandoné el proyecto por motivos personales, por lo que desconozco el alcance que tuvieron mis diseños y propuestas."
+                "description": "- I documented the ALM platform based on Cloudbees that was being developed, following the C4 model.\n\n- I proposed a modular design for the existing Terraform Enterprise workspaces to break up the monolithic structure that was being created.\n\n- I proposed a new Jenkins design that was closer to the IaC paradigm, leveraging projects such as JCaaC, jenkinsfile-runner, or custom-war-packager.\n\n- I left the project for personal reasons, so I am not aware of the extent to which my designs and proposals were implemented."
               }
             ],
             "competences": [
