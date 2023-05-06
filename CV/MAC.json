@@ -284,7 +284,7 @@
             "finishDate": "2018-05-01",
             "challenges": [
               {
-                "description": "- Evolucioné la plataforma de recuperación, eliminando Puppet y adoptando conceptos de infraestructura inmutable y contenedores.\n\n- Se desarrollaron pipelines de CI/CD para la creación de imágenes de sistema operativo (CentOS, NixOS, Illumos) o contenedores, los cuales se configuraban en tiempo de arranque según las configuraciones almacenadas de manera distribuida en Consul.\n\n- Se consiguió reducir todavía mas el MTTR o incluso poder arrancar los servidores sin disco o disco defectuoso."
+                "description": "- I evolved the recovery platform by eliminating Puppet and adopting concepts of immutable infrastructure and containers.\n\n- We developed CI/CD pipelines for creating operating system images (CentOS, NixOS, Illumos) or containers, which were configured at boot time based on distributed configurations stored in Consul.\n\n- We were able to further reduce MTTR and even boot servers without a disk or with a defective disk."
               }
             ],
             "competences": [
