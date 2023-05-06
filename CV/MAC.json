@@ -257,7 +257,7 @@
             "finishDate": "2018-05-01",
             "challenges": [
               {
-                "description": "- Asesoré en el diseño de la infraestructura de despliegue distribuido por aeropuertos, usando SUSE Manager y arranque por PXE.\n\n- El principal reto era hacerlo funcionar dentro de redes perimetrales muy restringidas y considerando los altos estándares de seguridad en aeropuertos.\n\n- Se consiguió un entorno seguro de imágenes inmutables bastionadas usando SALT y seguridad física con LUKS y dm-boot (en equipos con TPM2.0)."
+                "description": "- I provided guidance on the design of the infrastructure for a distributed deployment across airports, using SUSE Manager and PXE boot.\n\n- The main challenge was making it work within highly restricted perimeter networks and considering the high security standards in airports.\n\n- We successfully established a secure environment with immutable images, using SALT to fortify the system and ensuring physical security with LUKS and dm-boot (on TPM2.0-equipped devices)."
               }
             ],
             "competences": [
