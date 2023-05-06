@@ -34,19 +34,19 @@
     "interestingFacts": [
       {
         "topic": "¡Hala Celta!",
-        "fact": "Aunque no soy futbolero de ver todos los partidos si que me gusta seguir al equipo de mi ciudad y a sus filiales."
-      },
-      {
-        "topic": "Mis 3 hijos",
-        "fact": "Los que me hacen perder toda la capacidad cognitiva desarrollada antes."
+        "fact": "Although I'm not a football fan who watches every game, I do like to follow my city's team and its young teams."
       },
       {
         "topic": "Christopher Alexander",
-        "fact": "Me gusta el trabajo en arquitectura de Christopher Alexander y su conexión con el mundo de la informática de su \"Lenguaje de Patrones\"."
+        "fact": "I love Christopher Alexander's work in architecture and its connection with the world of computing through his 'Pattern Language'."
       },
       {
-        "topic": "Budismo",
-        "fact": "Recientemente he encontrado en la práctica de la meditación budista un lugar donde estar presente y desarrollar toda mi capacidad cognitiva."
+        "topic": "Buddhism",
+        "fact": "Recently, I've found in the practice of Buddhist meditation a place to be present and develop my cognitive capacity to the fullest."
+      },
+      {
+        "topic": "Father of 3",
+        "fact": "They are who make me lose all the cognitive capacity I had developed before."
       }
     ],
     "recommendations": [
