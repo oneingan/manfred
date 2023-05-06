@@ -415,7 +415,7 @@
             "finishDate": "2012-10-01",
             "challenges": [
               {
-                "description": "- Diseñé y desarrollé una solución para recuperación de equipos en estaciones. Basado en despliegue de sistema operativo por red y posterior configuración con la herramienta Puppet.\n\n- El principal reto fue realizar la ingeniería inversa de aplicaciones y sistemas heredados, de mucha antiguedad y poco documentados.\n\n- Se consiguió reducir el MTTR (Mean Time To Repair) de días a horas o minutos."
+                "description": "- I designed and developed a solution for recovering equipment in stations, based on network-based OS deployment and subsequent configuration with the Puppet tool.\n\n- The main challenge was reverse-engineering legacy applications and systems that were very old and poorly documented.\n\n- We successfully reduced the MTTR (Mean Time To Repair) from days to hours or minutes."
               }
             ],
             "competences": [
