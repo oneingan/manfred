@@ -350,7 +350,7 @@
             "finishDate": "2016-05-01",
             "challenges": [
               {
-                "description": "- Continué el trabajo de la consultoría previa, integrando otros sistemas en la plataforma de recuperación basada en Puppet. Incluyendo equipos Solaris y aplicaciones en entornos gráficos.\n\n- Diseñé junto a los responsables del servicio la plataforma de monitorización basada en Nagios pero configurada de forma dinámica usando Puppet.\n\n- El mayor reto fue adaptar Nagios a una infraestructura dinámica.\n\n- Conseguí, junto al servicio, en pocos meses, entregar la plataforma de monitorización que llevaba años en desarrollo por otra consultora."
+                "description": "- I continued the work of the previous consultancy, integrating other systems into the Puppet-based recovery platform. This included Solaris systems and applications in graphical environments.\n\n- I collaborated with the service managers to design the monitoring platform based on Nagios, but configured dynamically using Puppet.\n\n- The biggest challenge was adapting Nagios to a dynamic infrastructure.\n\n- Working with the customer team, we were able to deliver the monitoring platform within a few months, which had been in development for years by another consultancy firm."
               }
             ],
             "competences": [
