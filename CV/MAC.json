@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Juan José",
       "surnames": "Presa Rodal",
-      "title": "Automatizador",
+      "title": "Automator",
       "description": "¡Hola! me describiría como un apasionado del Software Libre y un autodidacta de Linux, redes y sistemas en general desde edad bien temprana.\n\nComencé mi carrera profesional hace aproximadamente 20 años (tengo 41) en el mundo de la Administración Linux _ad-hoc_ propia de esa época, desde entonces, no he dejado de interesarme por las nuevas tendencias tecnológicas, tanto en el mundo del Desarrollo como en el de las  Operaciones. Me gusta mantener mi propio _Technology Radar_ actualizado, aunque a veces reconozco que me paso de frenada.\n\nAhora busco nuevos proyectos, donde, por ejemplo, la reproducibilidad de entornos o la verificación criptográfica de la cadena de suministros de software sean conceptos que resuenen.",
       "avatar": {
         "alt": "56828137_2411836332168399_3261256031782567936_n.jpg",
@@ -17,13 +17,18 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
         "type": "github",
         "URL": "https://github.com/uningan"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanjo-presa"
       }
     ],
     "interestingFacts": [
@@ -55,7 +60,8 @@
             "surnames": "Traugott",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Config Management Camp",
@@ -63,9 +69,12 @@
         "URL": "https://cfgmgmtcamp.eu",
         "authors": [
           {
+            "name": "",
+            "surnames": "",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "The Purely Functional Software Deployment Model",
@@ -77,7 +86,8 @@
             "surnames": "Dolstra",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       }
     ]
   },
@@ -379,6 +389,11 @@
             "name": "System Administrator",
             "startDate": "2012-11-01",
             "finishDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Oracle",
@@ -547,6 +562,7 @@
       {
         "details": {
           "name": "Administrador del primer Nix User Group de España",
+          "description": "",
           "URL": "https://www.meetup.com/madrid-nix-nixos-user-group/",
           "image": {
             "alt": "Nix_snowflake.svg",
@@ -568,6 +584,7 @@
       {
         "details": {
           "name": "Organizador y profesor curso gratuito de introducción a Puppet",
+          "description": "",
           "URL": "https://www.eventbrite.es/e/registro-curso-de-introduccion-a-puppet-5976346413",
           "image": {
             "alt": "PL_logo_vertical_RGB_0.png",
@@ -589,6 +606,7 @@
       {
         "details": {
           "name": "Mi primer Bitcoin",
+          "description": "",
           "image": {
             "alt": "Bitcoin.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/bb7227a0-de2e-4368-abd1-1e97b8759d49_bitcoin.svg"
@@ -605,13 +623,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Portuguese"
+        "name": "Portuguese",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -759,6 +780,7 @@
         "finishDate": "2008-02-01",
         "institution": {
           "name": "Universidade da Coruña",
+          "description": "",
           "image": {
             "alt": "UDC-Logo-PNG.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/f5501cca-4232-434c-9f4e-3ec604ad3de8_udc-logo-png.png"
@@ -768,6 +790,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/juanjo-presa"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
@@ -801,6 +831,31 @@
         "DevOps & Infrastructure & SRE",
         "SysAdmin"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Github Actions",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
+      }
+    ]
   }
 }
