@@ -448,11 +448,6 @@
             "name": "System Administrator",
             "startDate": "2008-02-01",
             "finishDate": "2011-02-01",
-            "challenges": [
-              {
-                "description": "- Realicé la administración de sistema operativo AIX en sus versiones 5.3 y 6.1. Utilizando VIOS 2.1 y particionamiento dinámico.\n\n- Diseñé el entorno en alta disponibilidad mediante HACMP y el de respaldo.\n\n- Implementé el monitorizado integral con Nagios."
-              }
-            ],
             "competences": [
               {
                 "name": "AIX",
