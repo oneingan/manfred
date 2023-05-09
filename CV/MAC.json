@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -64,12 +65,7 @@
       {
         "title": "Config Management Camp",
         "type": "other",
-        "URL": "https://cfgmgmtcamp.eu",
-        "authors": [
-          {
-            "title": "Author"
-          }
-        ]
+        "URL": "https://cfgmgmtcamp.eu"
       },
       {
         "title": "The Purely Functional Software Deployment Model",
@@ -486,11 +482,6 @@
             "name": "Agente soporte servidores Linux",
             "startDate": "2007-02-01",
             "finishDate": "2008-02-01",
-            "challenges": [
-              {
-                "description": "Diagnóstico avanzado de problemas de software y hardware. Tratando tanto con empresas\ncomo con usuarios particulares. Desde noviembre de 2007 agente del soporte Servers. Línea\nespecializada en servidores, con amplios límites de soporte, en ayuda, configuración y resolución\nde problemas. Trabajando con plataformas RedHat, SuSE Linux y Windows Server."
-              }
-            ],
             "competences": [
               {
                 "name": "Linux",
@@ -604,79 +595,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "Portuguese",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Portuguese"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Nomad",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Shellscript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Haskell",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Helm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Ansible",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Puppet",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
           "type": "technology"
         }
       },
@@ -688,13 +622,7 @@
       },
       {
         "skill": {
-          "name": "Emacs",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
+          "name": "Nomad",
           "type": "technology"
         }
       },
@@ -706,7 +634,49 @@
       },
       {
         "skill": {
+          "name": "Haskell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Emacs",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Puppet",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -718,12 +688,50 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Helm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shellscript",
           "type": "technology"
         }
       }
     ],
     "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería técnica en Informática de Sistemas",
+        "startDate": "2003-09-01",
+        "finishDate": "2008-02-01",
+        "institution": {
+          "name": "Universidade da Coruña",
+          "image": {
+            "alt": "UDC-Logo-PNG.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/f5501cca-4232-434c-9f4e-3ec604ad3de8_udc-logo-png.png"
+          }
+        }
+      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
@@ -749,20 +757,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniería técnica en Informática de Sistemas",
-        "startDate": "2003-09-01",
-        "finishDate": "2008-02-01",
-        "institution": {
-          "name": "Universidade da Coruña",
-          "image": {
-            "alt": "UDC-Logo-PNG.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/f5501cca-4232-434c-9f4e-3ec604ad3de8_udc-logo-png.png"
-          }
-        }
       }
     ]
   },
@@ -772,6 +766,10 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/juanjo-presa"
+        },
+        {
+          "type": "other",
+          "URL": "https://github.com/uningan"
         }
       ]
     },
@@ -808,6 +806,31 @@
         "DevOps & Infrastructure & SRE",
         "SysAdmin"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Github Actions",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
+      }
+    ]
   }
 }
