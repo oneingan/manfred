@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -60,12 +60,21 @@
             "surnames": "Traugott",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Config Management Camp",
         "type": "other",
-        "URL": "https://cfgmgmtcamp.eu"
+        "URL": "https://cfgmgmtcamp.eu",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
       },
       {
         "title": "The Purely Functional Software Deployment Model",
@@ -77,7 +86,8 @@
             "surnames": "Dolstra",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       }
     ]
   },
@@ -379,6 +389,11 @@
             "name": "System Administrator",
             "startDate": "2012-11-01",
             "finishDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Oracle",
@@ -444,6 +459,11 @@
             "name": "System Administrator",
             "startDate": "2008-02-01",
             "finishDate": "2011-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AIX",
@@ -482,6 +502,11 @@
             "name": "Agente soporte servidores Linux",
             "startDate": "2007-02-01",
             "finishDate": "2008-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Linux",
@@ -537,6 +562,7 @@
       {
         "details": {
           "name": "Administrador del primer Nix User Group de España",
+          "description": "",
           "URL": "https://www.meetup.com/madrid-nix-nixos-user-group/",
           "image": {
             "alt": "Nix_snowflake.svg",
@@ -558,6 +584,7 @@
       {
         "details": {
           "name": "Organizador y profesor curso gratuito de introducción a Puppet",
+          "description": "",
           "URL": "https://www.eventbrite.es/e/registro-curso-de-introduccion-a-puppet-5976346413",
           "image": {
             "alt": "PL_logo_vertical_RGB_0.png",
@@ -579,6 +606,7 @@
       {
         "details": {
           "name": "Mi primer Bitcoin",
+          "description": "",
           "image": {
             "alt": "Bitcoin.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/bb7227a0-de2e-4368-abd1-1e97b8759d49_bitcoin.svg"
@@ -595,11 +623,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Portuguese",
+        "name": "English",
         "level": "Professional working proficiency"
       },
       {
-        "name": "English",
+        "name": "Portuguese",
         "level": "Professional working proficiency"
       },
       {
@@ -610,37 +638,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Ansible",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Nomad",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Haskell",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -652,13 +650,19 @@
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Emacs",
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Haskell",
           "type": "technology"
         }
       },
@@ -670,25 +674,25 @@
       },
       {
         "skill": {
+          "name": "Helm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Puppet",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
           "type": "technology"
         }
       },
@@ -700,38 +704,48 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Emacs",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Terraform",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Helm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Shellscript",
           "type": "technology"
         }
       }
     ],
     "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniería técnica en Informática de Sistemas",
-        "startDate": "2003-09-01",
-        "finishDate": "2008-02-01",
-        "institution": {
-          "name": "Universidade da Coruña",
-          "image": {
-            "alt": "UDC-Logo-PNG.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/f5501cca-4232-434c-9f4e-3ec604ad3de8_udc-logo-png.png"
-          }
-        }
-      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
@@ -757,6 +771,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería técnica en Informática de Sistemas",
+        "startDate": "2003-09-01",
+        "finishDate": "2008-02-01",
+        "institution": {
+          "name": "Universidade da Coruña",
+          "description": "",
+          "image": {
+            "alt": "UDC-Logo-PNG.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/f5501cca-4232-434c-9f4e-3ec604ad3de8_udc-logo-png.png"
+          }
+        }
       }
     ]
   },
@@ -766,10 +795,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/juanjo-presa"
-        },
-        {
-          "type": "other",
-          "URL": "https://github.com/oneningan"
         }
       ]
     },
@@ -812,11 +837,7 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
-        "name": "Github Actions",
+        "name": "Linux",
         "type": "technology"
       },
       {
@@ -824,7 +845,11 @@
         "type": "technology"
       },
       {
-        "name": "Linux",
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Github Actions",
         "type": "technology"
       },
       {
