@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,26 +11,16 @@
       "title": "Automator",
       "description": "Hello! I would describe myself as a Free Software enthusiast and a self-taught Linux, networking, and systems administrator since a young age.\n\nI started my professional career about 20 years ago (I'm 41 now) in the world of Linux administration, which was quite ad-hoc at that time. Since then, I have continued to be interested in new technology trends, both in the Development and Operations fields. I like to keep my own Technology Radar up-to-date, although sometimes I recognize that I can go overboard.\n\nNow, I am looking for new projects where concepts such as environment reproducibility or cryptographic verification of the software supply chain resonate.",
       "avatar": {
-        "alt": "56828137_2411836332168399_3261256031782567936_n.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/21/bcb472da-c15f-4326-819b-cf1017428ac5_56828137_24118363321.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/21/bcb472da-c15f-4326-819b-cf1017428ac5_56828137_24118363321.jpg",
+        "alt": "56828137_2411836332168399_3261256031782567936_n.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/oneningan"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/juanjo-presa"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "¡Hala Celta!",
@@ -60,21 +50,12 @@
             "surnames": "Traugott",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Config Management Camp",
         "type": "other",
-        "URL": "https://cfgmgmtcamp.eu",
-        "authors": [
-          {
-            "name": "",
-            "surnames": "",
-            "title": "Author"
-          }
-        ],
-        "summary": ""
+        "URL": "https://cfgmgmtcamp.eu"
       },
       {
         "title": "The Purely Functional Software Deployment Model",
@@ -86,8 +67,7 @@
             "surnames": "Dolstra",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
@@ -97,8 +77,8 @@
         "organization": {
           "name": "Civir España",
           "image": {
-            "alt": "logo-civir-2022_dark.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/8fe2b5b0-aacf-47ff-952e-59328f24c74c_logo-civir-2022_dark.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/8fe2b5b0-aacf-47ff-952e-59328f24c74c_logo-civir-2022_dark.svg",
+            "alt": "logo-civir-2022_dark.svg"
           }
         },
         "roles": [
@@ -139,8 +119,8 @@
         "organization": {
           "name": "Consejería de Sanidad",
           "image": {
-            "alt": "Logotipo_del_SERMAS_(RPS_10-03-2012).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/2e8c20a0-c810-47ce-a4c6-e718786997be_logotipo_del_sermas_.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/2e8c20a0-c810-47ce-a4c6-e718786997be_logotipo_del_sermas_.png",
+            "alt": "Logotipo_del_SERMAS_(RPS_10-03-2012).png"
           }
         },
         "roles": [
@@ -182,8 +162,8 @@
         "organization": {
           "name": "Sustainable Fisheries Partnership",
           "image": {
-            "alt": "logo-sfp.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/ec7a1273-8cd6-4666-a2db-17a2e0ebc335_logo-sfp.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/ec7a1273-8cd6-4666-a2db-17a2e0ebc335_logo-sfp.svg",
+            "alt": "logo-sfp.svg"
           }
         },
         "roles": [
@@ -217,8 +197,8 @@
         "organization": {
           "name": "Santander Global Tech",
           "image": {
-            "alt": "mgogwdkxah2khqxnnm4k.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/c3f66870-c824-491c-a1e0-cfb9704185f8_mgogwdkxah2khqxnnm4k.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/c3f66870-c824-491c-a1e0-cfb9704185f8_mgogwdkxah2khqxnnm4k.png",
+            "alt": "mgogwdkxah2khqxnnm4k.png"
           }
         },
         "roles": [
@@ -252,8 +232,8 @@
         "organization": {
           "name": "Aena",
           "image": {
-            "alt": "Aena_Logo_New.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/40f188d6-8496-4cb3-8fb5-15b1bfb72e3d_aena_logo_new.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/40f188d6-8496-4cb3-8fb5-15b1bfb72e3d_aena_logo_new.svg",
+            "alt": "Aena_Logo_New.svg"
           }
         },
         "roles": [
@@ -279,8 +259,8 @@
         "organization": {
           "name": "Metro de Madrid",
           "image": {
-            "alt": "MetroMadridLogo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/6083ec59-f877-4ae5-9a09-b56d66da28b6_metromadridlogo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/6083ec59-f877-4ae5-9a09-b56d66da28b6_metromadridlogo.svg",
+            "alt": "MetroMadridLogo.svg"
           }
         },
         "roles": [
@@ -310,8 +290,8 @@
         "organization": {
           "name": "Telefónica Tech",
           "image": {
-            "alt": "channels4_profile.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7db4543c-6967-4ca9-bfc0-35721619172a_channels4_profile.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7db4543c-6967-4ca9-bfc0-35721619172a_channels4_profile.jpg",
+            "alt": "channels4_profile.jpg"
           }
         },
         "roles": [
@@ -345,8 +325,8 @@
         "organization": {
           "name": "Metro de Madrid",
           "image": {
-            "alt": "MetroMadridLogo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/33624797-d5c2-4ec5-9750-983929e2f620_metromadridlogo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/33624797-d5c2-4ec5-9750-983929e2f620_metromadridlogo.svg",
+            "alt": "MetroMadridLogo.svg"
           }
         },
         "roles": [
@@ -380,8 +360,8 @@
         "organization": {
           "name": "Produban",
           "image": {
-            "alt": "produban-squarelogo-1432107081926.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/a7d05889-f1a8-4b2e-9dca-16f2b6796e00_produban-squarelogo-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/a7d05889-f1a8-4b2e-9dca-16f2b6796e00_produban-squarelogo-.png",
+            "alt": "produban-squarelogo-1432107081926.png"
           }
         },
         "roles": [
@@ -389,11 +369,6 @@
             "name": "System Administrator",
             "startDate": "2012-11-01",
             "finishDate": "2013-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Oracle",
@@ -415,8 +390,8 @@
         "organization": {
           "name": "Metro de Madrid",
           "image": {
-            "alt": "MetroMadridLogo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/dc6fcfe0-e463-4766-8c21-888443d65033_metromadridlogo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/dc6fcfe0-e463-4766-8c21-888443d65033_metromadridlogo.svg",
+            "alt": "MetroMadridLogo.svg"
           }
         },
         "roles": [
@@ -450,8 +425,8 @@
         "organization": {
           "name": "IMSERSO",
           "image": {
-            "alt": "275069309_154188563670848_2712749590732705442_n.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/4cef6a1f-1622-4b94-b1df-d019a8b279d9_275069309_1541885636.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/4cef6a1f-1622-4b94-b1df-d019a8b279d9_275069309_1541885636.png",
+            "alt": "275069309_154188563670848_2712749590732705442_n.png"
           }
         },
         "roles": [
@@ -459,11 +434,6 @@
             "name": "System Administrator",
             "startDate": "2008-02-01",
             "finishDate": "2011-02-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "AIX",
@@ -493,8 +463,8 @@
         "organization": {
           "name": "Dell España",
           "image": {
-            "alt": "Dell_Logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/665dd14f-fecc-4d3f-9764-6e4ddc027cac_dell_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/665dd14f-fecc-4d3f-9764-6e4ddc027cac_dell_logo.svg",
+            "alt": "Dell_Logo.svg"
           }
         },
         "roles": [
@@ -502,11 +472,6 @@
             "name": "Agente soporte servidores Linux",
             "startDate": "2007-02-01",
             "finishDate": "2008-02-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Linux",
@@ -562,54 +527,51 @@
       {
         "details": {
           "name": "Administrador del primer Nix User Group de España",
-          "description": "",
           "URL": "https://www.meetup.com/madrid-nix-nixos-user-group/",
           "image": {
-            "alt": "Nix_snowflake.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/c110ed2b-6230-4f3f-a712-165d9a7d7006_nix_snowflake.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/c110ed2b-6230-4f3f-a712-165d9a7d7006_nix_snowflake.svg",
+            "alt": "Nix_snowflake.svg"
           }
         },
         "type": "achievement",
         "publishingDate": "2022-12-01",
+        "tags": [
+          "Comunidad"
+        ],
         "relatedCompetences": [
           {
             "name": "Linux",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Comunidad"
         ]
       },
       {
         "details": {
           "name": "Organizador y profesor curso gratuito de introducción a Puppet",
-          "description": "",
           "URL": "https://www.eventbrite.es/e/registro-curso-de-introduccion-a-puppet-5976346413",
           "image": {
-            "alt": "PL_logo_vertical_RGB_0.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/ff6145fe-2a84-4d08-9bb9-6e87c021746e_pl_logo_vertical_rgb.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/ff6145fe-2a84-4d08-9bb9-6e87c021746e_pl_logo_vertical_rgb.png",
+            "alt": "PL_logo_vertical_RGB_0.png"
           }
         },
         "type": "achievement",
         "publishingDate": "2013-04-01",
+        "tags": [
+          "Comunidad"
+        ],
         "relatedCompetences": [
           {
             "name": "Puppet",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Comunidad"
         ]
       },
       {
         "details": {
           "name": "Mi primer Bitcoin",
-          "description": "",
           "image": {
-            "alt": "Bitcoin.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/bb7227a0-de2e-4368-abd1-1e97b8759d49_bitcoin.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/bb7227a0-de2e-4368-abd1-1e97b8759d49_bitcoin.svg",
+            "alt": "Bitcoin.svg"
           }
         },
         "type": "achievement",
@@ -638,13 +600,85 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Nomad",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Emacs",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Haskell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Helm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nomad",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Puppet",
           "type": "technology"
         }
       },
@@ -662,7 +696,7 @@
       },
       {
         "skill": {
-          "name": "Haskell",
+          "name": "Terraform",
           "type": "technology"
         }
       },
@@ -671,96 +705,38 @@
           "name": "Visual Studio Code",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Helm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ansible",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Puppet",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Emacs",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        }
       }
     ],
     "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería técnica en Informática de Sistemas",
+        "startDate": "2003-09-01",
+        "institution": {
+          "name": "Universidade da Coruña",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/f5501cca-4232-434c-9f4e-3ec604ad3de8_udc-logo-png.png",
+            "alt": "UDC-Logo-PNG.png"
+          }
+        },
+        "finishDate": "2008-02-01"
+      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Mastering Functional DevOps with Nix",
         "startDate": "2022-11-01",
-        "finishDate": "2022-11-01",
         "institution": {
           "name": "Ziverge Inc.",
           "description": "Over the course of this full-day workshop, attendees will learn how to provision and install Nix/NixOS, and deploy their own system and applications. We will cover the typical DevOps life cycle so that you can understand and master the meaning of reproducibility and the ways in which it can improve development, continuous integration, and deployment to production.",
           "URL": "https://www.eventbrite.com/e/mastering-functional-devops-with-nix-tickets-445146373787",
           "image": {
-            "alt": "Nix_snowflake.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/27/da43dc3a-3a9e-427c-be00-a33489f6a9b2_nix_snowflake.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/27/da43dc3a-3a9e-427c-be00-a33489f6a9b2_nix_snowflake.svg",
+            "alt": "Nix_snowflake.svg"
           }
         },
+        "finishDate": "2022-11-01",
         "linkedCompetences": [
           {
             "name": "Docker",
@@ -771,20 +747,25 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniería técnica en Informática de Sistemas",
-        "startDate": "2003-09-01",
-        "finishDate": "2008-02-01",
-        "institution": {
-          "name": "Universidade da Coruña",
-          "description": "",
-          "image": {
-            "alt": "UDC-Logo-PNG.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/13/f5501cca-4232-434c-9f4e-3ec604ad3de8_udc-logo-png.png"
-          }
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
         }
       }
     ]
@@ -793,8 +774,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/juanjo-presa"
+          "URL": "https://www.linkedin.com/in/juanjo-presa",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/oneningan",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "getmanfred.com@nadanix.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "696407588",
+          "countryCode": "+34"
         }
       ]
     },
@@ -834,16 +828,8 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "Linux",
-        "type": "technology"
-      },
-      {
-        "name": "Kubernetes",
-        "type": "technology"
-      },
       {
         "name": "Git",
         "type": "technology"
@@ -853,8 +839,23 @@
         "type": "technology"
       },
       {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
         "name": "Terraform",
         "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal sería un trabajo donde las decisiones se tomen horizontalmente de manera consensuada y argumentada. Registrando las decisiones en un _framework_ tipo _ADR_ (_Architecture Decision Record_).\n\nQue el equipo técnico se haga responsable de sus decisiones, sin temor a la innovación y sin necesidad de un fabricante detrás al que \"echarle las culpas\" si algo va mal.\n\nPara temas laborales prefiero la comunicación asíncrona, pero al mismo tiempo veo necesarias las reuniones presenciales o remotas como elemento social indispensable de un equipo.",
+    "goodPractices": "In general, I am interested in design patterns that establish clear boundaries between domains (Domain Driven Design). Interface, implementation, and user lattice cannot be the same thing.\n\nI like functional programming languages, preferably strongly typed ones, precisely because they \"force\" you to take the path of best practices.\n\nRegarding Operations, lately, I am quite obsessed with achieving bit-by-bit reproducibility of environments, both in development and production, as well as in compilation tools.\n\nIn terms of work organization, I find Ryan Singer's Shape Up methodology to be very accurate.",
+    "projects": [
+      {
+        "name": "Nadanix - Proyecto personal"
       }
     ]
   }
